@@ -4,6 +4,8 @@ Summary:
 
 In this project, you will continue to learn about the basic models and representations that an analyst develops during the analysis and design process. You will learn about BPMN diagrams, their scope, and how to build them. You will also compare it to the one you developed earlier, identify inconsistencies, and complete them.
 
+💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -315,5 +317,3 @@ Indicate your answers in a file with corresponding names ex00\_<product prefix>\
    3. correct an artifact that requires clarification.
 8. Indicate your answers in the file ex05\_<product prefix>\_rev.xlsx.
 9. Place a new revision of the refined artifact with a ex05 prefix in the name.
-
-💡 [Tap here](https://forms.yandex.ru/cloud/65b90965068ff0081dc8867e/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
