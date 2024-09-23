@@ -50,7 +50,7 @@ The current project is a group project.
 
 ### General Rules <div id="21"></div>
 
-1. Along the way, you may feel a sense of uncertainty and a severe lack of information: that's OK. Remember, the information in the repository and on Google is always with you. So are your peers and Slack. Communicate. Search. Use common sense. Don't be afraid to make mistakes.
+1. Along the way, you may feel a sense of uncertainty and a severe lack of information: that's OK. Remember, the information in the repository and on Google is always with you. So are your peers and RocketChat. Communicate. Search. Use common sense. Don't be afraid to make mistakes.
 2. Pay attention to sources of information. Check. Think. Analyse. Compare. 
 3. Look at the text of each assignment. Read it several times. 
 4. Read the examples carefully. There may be something in them that is not explicitly stated in the task itself.
@@ -71,28 +71,28 @@ In this project, we will use a process approach to solve our problems. The proce
 
 ### 1. Business Processes <div id="31"></div>
 
-**Business process** is a sequence of actions (events, operations, work), limited by the beginning and end and aimed at obtaining a given result (e.g. creation of a product or service). 
+**Business process** is a sequence of actions (events, operations, work), limited by a beginning and an end, aimed at achieving a given result (e.g. creation of a product or service).
 
 A business process is characterized by these basic elements:
 
-- ***Business process purpose/result (output)*** - what the business process is for. A business process always aims to achieve a result. Typically, a business process is named according to its purpose. ***For example***, billing for telephone calls.
-- ***Business process owner*** - the person or official responsible for performing the process and achieving the result. Non-group role. ***For example***, the head of the accounts team of a mobile phone company.
-- ***Executors*** - people (groups of people) who perform certain actions of a business process. People who perform identical actions are grouped into roles ***For example***, an employee of the accounts team of a cell phone company. 
-- ***Business process input*** - the resources required to create the result of the business process. Input resources (materials, information data) are consumed or transformed into an output. ***For example,*** the timing of telephone calls to calculate payment for those calls.
+- ***Business process purpose/result (output)*** — what the business process is for. A business process always aims to achieve a result. Typically, a business process is named according to its purpose. ***For example***, billing for telephone calls.
+- ***Business process owner*** — the person or official responsible for performing the process and achieving the result. Non-group role. ***For example***, the head of the accounts team of a mobile phone company.
+- ***Executors*** — people (groups of people) who perform certain actions of a business process. People who perform identical actions are grouped into roles ***For example***, an employee of the accounts team of a cell phone company. 
+- ***Business process input*** — the resources required to create the result of the business process. Input resources (materials, information data) are consumed or transformed into an output. ***For example,*** the timing of telephone calls to calculate payment for those calls.
 
 In addition, the business process has:
 
-- ***Beginning*** - an event that initiates a business process. ***For example,*** the end of the period when calculating telephone charges.
-- ***Ending*** - result event. The result of a business process can be either successful or unsuccessful. *For example,* the accrued payment for telephone calls for the period.
-- ***Applicable resources*** - applied and unchanged in the business process. ***For example,*** telephone tariff reference data.
-- ***Business process steps*** - business process actions executed in a specific sequence. ***For example,*** the actions performed for telephone charges.
-- ***Business process description*** - textual or/and graphical description of the sequence of actions; indication of roles executing the actions and conditions of execution. 
+- ***Beginning*** — an event that initiates a business process. ***For example,*** the end of the period when calculating telephone charges.
+- ***Ending*** — result event. The result of a business process can be either successful or unsuccessful. *For example,* the accrued payment for telephone calls for the period.
+- ***Applicable resources*** — applied and unchanged in the business process. ***For example,*** telephone tariff reference data.
+- ***Business process steps*** — business process actions executed in a specific sequence. ***For example,*** the actions performed for telephone charges.
+- ***Business process description*** — textual or/and graphical description of the sequence of actions; indication of the roles executing the actions and conditions of execution. 
 
 A business process can consist of several sub-processes, procedures, and functions that are designed to achieve the goal of the main business process. The output of one business process may be the input for another.
 
 ### 2. Recommendations for Work with Business Processes <div id="32"></div>
 
-Identifying business processes is a creative process. There is no single correct way to do that. It is always the result of team agreements. 
+Identifying business processes is a creative process. There is no one right way to do it. It is always the result of team agreements.
 
 It is important that the **result of the business process implementation** consists of:
 
@@ -107,7 +107,7 @@ The business requirements, key stakeholder concerns of the task and functional r
 - *main:* processes that add value to the business;
 - *supporting:* supporting processes, required for the correct execution of the main processes, do not add value to the business but ensure that the main business processes are executed.   
 
-**Criteria for separating** into business processes:
+**Criteria for separation** into business processes:
 
 1. difference in objectives, i.e. different business process needs;
 2. a business process must get a result (output).
@@ -149,16 +149,16 @@ It also helps to identify:
 ### 3. BPMN Diagram <div id="33"></div>
 
 Various graphical notations are often used to visualize business processes. 
-In the current project, we will consider one of them - [BPMN](https://ru.wikipedia.org/wiki/BPMN) (Business Process Model and Notation).
+In the current project, we will consider one of them — [BPMN](https://ru.wikipedia.org/wiki/BPMN) (Business Process Model and Notation).
 
 BPMN is:
 
-- An intuitive (and therefore common) method for modeling business processes;
-- business process modeling language.
+- An intuitive (and therefore common) way to model business processes;
+- A language for modeling business processes.
 
-The following types of diagrams exist in BPMN:
+There are the following types of diagrams in BPMN:
 
-1. The process diagram describes the sequence of tasks and events, the conditions of execution, and the logic of the business process;
+1. The process diagram describes the sequence of tasks and events, the execution conditions, and the logic of the business process.
 2. Diagrams describing the data exchange:
    1. The Collaboration diagram describes the message flows;
    2. Simplified interaction models:
@@ -183,10 +183,10 @@ Good descriptions of BPMN:
 
 There are two types of processes in BPMN from a modeling perspective:
 
-- executable, which can be actually executed through special Business Studio or Bizagi software;
-- non-executable, used for study, coordination and demonstration.
+- Executable, which can actually be executed using special Business Studio or Bizagi software;
+- Non-executable, which are used for study, coordination, and demonstration.
 
-Many teams use non-executable diagrams and aim to create them with a minimal, basic set of elements. This approach allows people to quickly learn and understand the notation, not only analysts, but also developers, system customers, users, which contributes to faster work of the team (faster development, faster coordination). Executable processes require strict compliance with all the rules of BPMN notation and deeper detailing.
+Many teams use non-executable diagrams and aim to create them with a minimal, basic set of elements. This approach allows people to quickly learn and understand the notation, not only analysts, but also developers, system customers, users, which contributes to faster work of the team (faster development, faster coordination). Executable processes require strict adherence to all rules of BPMN notation and deeper detailing.
 
 ## Chapter IV <div id="chapter-iv"></div>
 
@@ -196,7 +196,7 @@ Many teams use non-executable diagrams and aim to create them with a minimal, ba
 
 The management of a chain of barbershops decided to implement an online booking system. The main objective is to develop the business by expanding the customer base through the possibility of online registration, as well as to reduce employee labour costs and manual labour by automatically informing customers through communication channels. 
 
-Both registered and unregistered visitors can book an appointment on the website. When making an appointment, they can select the type of service: hairdressing or cosmetology, as well as the service itself, the master and the time from the available intervals. The system should provide automatic sending of reminders to clients through the communication channel chosen by the client (Telegram, WhatsApp, VK, sms) according to the schedule set by the manager. After receiving a service, the system offers the client to evaluate the service and write suggestions on how to improve the work.
+Both registered and unregistered visitors can book an appointment on the website. When making an appointment, they can select the type of service: hairdressing or cosmetology, as well as the service itself, the master and the time from the available intervals. The system should provide automatic sending of reminders to clients through the communication channel chosen by the client (Telegram, WhatsApp, VK, SMS) according to the schedule set by the manager. After receiving a service, the system offers the client to evaluate the service and write suggestions on how to improve the work.
 
 The schedule of masters and the services provided by each master should be entered by the manager, who may be more than one person. This person is also responsible for keeping the schedule up to date and adjusting it if necessary, communicating with customers manually, marking the service, charging and accepting payment, sending the payment data to the accounting department. The manager can also receive reports on completed services and view customer feedback.
 
@@ -250,7 +250,7 @@ Indicate your answers in a file with corresponding names ex00\_<product prefix>\
 
 1. Prepare questions for a business process discussion.
 2. Consider both Exercise 03 of the current project and your own understanding of the business process when preparing questions.
-3. Discuss the business process (it can be a role-playing game, brainstorming session, workshop - the team's choice).
+3. Discuss the business process (it can be a role-playing game, brainstorming session, workshop — the team's choice).
 4. Prepare a report of the discussion (discussed in detail in the BSA03 project), indicate:
    1. business process name;
    2. business process identifier;
@@ -295,13 +295,13 @@ Indicate your answers in a file with corresponding names ex00\_<product prefix>\
 6. Specify intermediate events if necessary.
 7. Apply lanes/pools or specify executors on footnotes (artifacts) if necessary. 
 8. Specify the end event and result of the business process.
-9. Indicate your answers in the file ex04\_<product prefix>\_bpmn\_N.xxx (xxx is an extension, N - business process identifier).
+9. Indicate your answers in the file ex04\_<product prefix>\_bpmn\_N.xxx (xxx is an extension, N — business process identifier).
 
 ### Exercise 05 — Revision of the Main Business Process Diagrams <div id="56"></div>
 
 **For task 1** check the consistency of the main business process diagrams and other task artifacts.
 
-1. Check the consistency of stakeholders and roles in:
+1. Check the consistency of the stakeholders and the roles in:
    1. context diagram;
    2. onion diagram;
    3. stakeholders list;
