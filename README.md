@@ -50,7 +50,7 @@ The current project is a group project.
 
 ### General Rules <div id="21"></div>
 
-1. Along the way, you may feel a sense of uncertainty and a severe lack of information: that's OK. Remember, the information in the repository and on Google is always with you. So are your peers and RocketChat. Communicate. Search. Use common sense. Don't be afraid to make mistakes.
+1. Along the way, you may feel a sense of uncertainty and a severe lack of information: that's OK. Remember, the information in the repository and on Google is always with you. So are your peers and Rocket.Chat. Communicate. Search. Use common sense. Don't be afraid to make mistakes.
 2. Pay attention to sources of information. Check. Think. Analyse. Compare. 
 3. Look at the text of each assignment. Read it several times. 
 4. Read the examples carefully. There may be something in them that is not explicitly stated in the task itself.
