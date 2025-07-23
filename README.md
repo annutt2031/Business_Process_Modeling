@@ -260,7 +260,7 @@ Indicate your answers in a file with corresponding names ex00\_<product prefix>\
    6. issues discussed;
    7. answers to questions;
    8. on issues that caused controversial opinions: write down the opinions of the participants, the opinion of the business process owner, and the decision made.
-5. Place the report in the file ex00\_<product prefix>\_<business process identifier>\_disc.docx. 
+5. Place the report in the file ex02\_<product prefix>\_<business process identifier>\_disc.docx. 
 
 ### Exercise 03 — Description of the Main Business Processes <div id="54"></div>
 
