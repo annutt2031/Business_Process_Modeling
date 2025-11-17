@@ -226,7 +226,7 @@ Pick up the following artifacts from previous projects (chapter 1):
 7. role functions in the system;
 8. data flows sent/received by external systems.
 
-Indicate your answers in a file with corresponding names ex00\_<product prefix>\_<file name>.
+Indicate your answers in a file with corresponding names `ex00_<product prefix>_<file name>`.
 
 ### Exercise 01 — Identification of Main Business Processes <div id="52"></div>
 
@@ -242,7 +242,7 @@ Indicate your answers in a file with corresponding names ex00\_<product prefix>\
 4. Consider the criteria for identifying business processes:
    1. each business process must have a result;
    2. the results of business processes of the same level should be different.
-5. Indicate your answers in the file ex01\_<product prefix>\_mpr.xlsx.
+5. Indicate your answers in the file `ex01_<product prefix>_mpr.xlsx`.
 
 ### Exercise 02 — Discussion of Business Processes <div id="53"></div>
 
@@ -260,7 +260,7 @@ Indicate your answers in a file with corresponding names ex00\_<product prefix>\
    6. issues discussed;
    7. answers to questions;
    8. on issues that caused controversial opinions: write down the opinions of the participants, the opinion of the business process owner, and the decision made.
-5. Place the report in the file ex02\_<product prefix>\_<business process identifier>\_disc.docx. 
+5. Place the report in the file `ex02_<product prefix>_<business process identifier>_disc.docx`. 
 
 ### Exercise 03 — Description of the Main Business Processes <div id="54"></div>
 
@@ -281,7 +281,7 @@ Indicate your answers in a file with corresponding names ex00\_<product prefix>\
    6. list of business process executors (roles in the task);
    7. used resources (information data used in the business process);
    8. relationships with other main business processes.
-2. Indicate your answers in the file ex03\_<product prefix>\_mpr.xlsx.
+2. Indicate your answers in the file `ex03_<product prefix>_mpr.xlsx`.
 
 ### Exercise 04 — Development of Business Process Diagrams <div id="55"></div>
 
@@ -295,7 +295,7 @@ Indicate your answers in a file with corresponding names ex00\_<product prefix>\
 6. Specify intermediate events if necessary.
 7. Apply lanes/pools or specify executors on footnotes (artifacts) if necessary. 
 8. Specify the end event and result of the business process.
-9. Indicate your answers in the file ex04\_<product prefix>\_bpmn\_N.xxx (xxx is an extension, N — business process identifier).
+9. Indicate your answers in the file `ex04_<product prefix>_bpmn_N.xxx` (xxx is an extension, N — business process identifier).
 
 ### Exercise 05 — Revision of the Main Business Process Diagrams <div id="56"></div>
 
@@ -310,10 +310,10 @@ Indicate your answers in a file with corresponding names ex00\_<product prefix>\
 3. Check that the problems for which the system is being created can be solved in the execution of the main business processes.
 4. Check that the business requirements of the system can be achieved by the main business processes.
 5. Check that the main business processes ensure that the functions of the system roles are fulfilled. 
-6. Place the results in the "Artifact Comparison" table (https://docs.google.com/spreadsheets/d/1tKYX2C6t6lXdRNa14qHG4j2gKa\_mQSW5/edit#gid=2122219759).
+6. Place the results in the "Artifact Comparison" table (https://docs.google.com/spreadsheets/d/1tKYX2C6t6lXdRNa14qHG4j2gKa_mQSW5/edit#gid=2122219759).
 7. In case of inconsistency:
    1. report the inconsistency for each case in a table;
    2. indicate the need (or lack of need) to modify the artifacts under consideration;
    3. correct an artifact that requires clarification.
-8. Indicate your answers in the file ex05\_<product prefix>\_rev.xlsx.
+8. Indicate your answers in the file `ex05_<product prefix>_rev.xlsx`.
 9. Place a new revision of the refined artifact with a ex05 prefix in the name.
