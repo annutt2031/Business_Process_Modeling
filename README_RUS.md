@@ -42,9 +42,10 @@
 1. Карл Вигерс, Джой Битти, «Разработка требований к программному обеспечению» издание третье, дополненное.
 2. Владимир Репин «Моделирование бизнес-процессов в нотации BPMN. Пособие для начинающих. Часть I».
 3. [Описание нотации BPMN](https://www.businessstudio.ru/wiki/docs/current/doku.php/ru/csdesign/bpmodeling/bpmn_notation) от Business Studio.
-4. [Блог о бизнес-процессах и BPMN](https://bpmn.pro/bpmn/chto-takoe-bpmn).
-5. Microsoft «[Руководство для начинающих по использованию BPMN в повседневной работе](https://www.microsoft.com/ru-ru/microsoft-365/business-insights-ideas/resources/the-guide-to-using-bpmn-in-your-business)».
-6. Блог Comindware «[Нотация BPMN 2.0: ключевые элементы и описание](https://www.comindware.ru/blog/%d0%bd%d0%be%d1%82%d0%b0%d1%86%d0%b8%d1%8f-bpmn-2-0-%d1%8d%d0%bb%d0%b5%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%b8-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5/)».
+4. [Блог о бизнес-процессах и BPMN](https://stormbpmn.com/blog/bpmn/bpmn-polnoe-rukovodsko-na-primeryah).
+5.  [Подборка ошибок при отрисовке диаграмм](https://bpmn2.ru/blog/top-25-oshibok-bpmn).
+6. Microsoft «[Руководство для начинающих по использованию BPMN в повседневной работе](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/the-guide-to-using-bpmn-in-your-business)».
+7. Блог Comindware «[Нотация BPMN 2.0: ключевые элементы и описание](https://www.comindware.ru/blog/%d0%bd%d0%be%d1%82%d0%b0%d1%86%d0%b8%d1%8f-bpmn-2-0-%d1%8d%d0%bb%d0%b5%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%b8-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5/)».
 
 ## Chapter II <div id="chapter-ii"></div>
 

@@ -42,9 +42,10 @@ The current project is a group project.
 1. Karl Wiegers, Joy Beatty, "Software Requirements" 3rd edition, amplified.
 2. Vladimir Repin "Business Process Modeling in BPMN Notation. Manual for beginners. Part I".
 3. [BPMN Description](https://www.businessstudio.ru/wiki/docs/current/doku.php/ru/csdesign/bpmodeling/bpmn_notation) by Business Studio.
-4. [Blog about business processes and BPMN](https://bpmn.pro/bpmn/chto-takoe-bpmn). 
-5. Microsoft "[A beginner's guide to using BPMN in everyday work](https://www.microsoft.com/ru-ru/microsoft-365/business-insights-ideas/resources/the-guide-to-using-bpmn-in-your-business)".
+4. [Blog about business processes and BPMN](https://stormbpmn.com/blog/bpmn/bpmn-polnoe-rukovodsko-na-primeryah). 
+5. Microsoft "[A beginner's guide to using BPMN in everyday work](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/the-guide-to-using-bpmn-in-your-business)".
 6. Comindware's Blog "[BPMN 2.0 notation: key elements and description](https://www.comindware.ru/blog/%d0%bd%d0%be%d1%82%d0%b0%d1%86%d0%b8%d1%8f-bpmn-2-0-%d1%8d%d0%bb%d0%b5%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%b8-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5/)".
+7. [Blog about BPMN](https://bpmn2.ru/blog/top-25-oshibok-bpmn). 
 
 ## Chapter II <div id="chapter-ii"></div>
 
